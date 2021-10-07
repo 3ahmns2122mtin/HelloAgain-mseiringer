@@ -18,7 +18,7 @@ WebGL Referenzauflösung (960x600)
 https://3ahmns2122mtin.github.io/HelloAgain-smeerws-Uebung01/
 
 ### Visuelle Einblicke in das Projekt: 
-![sc-ue01helloagain](https://user-images.githubusercontent.com/28704310/132992326-6bd52f52-8af3-48e5-8406-060d0270f158.JPG)
+![grafik](https://user-images.githubusercontent.com/90834304/136337035-36121be3-77a5-462b-8e99-8b2f2abc9cdb.png)
 
 ### Notwendiges für die Ausführung: 
 Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
